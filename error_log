@@ -1,0 +1,6 @@
+[02-Feb-2020 17:04:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Feb-2020 17:04:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/is2host/public_html/water/index.php on line 52
